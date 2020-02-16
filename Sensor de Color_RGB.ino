@@ -129,4 +129,8 @@ void loop() {
     
     delay (1000);
 }
+//Creado por José María Mejuto Ferro siguiendo lecciones de los tutoriales de arduino online
+//Agradecimientosa todos los que colaboran por extender el conocimiento y especialmente a mis camaradas rojos 
+//que dan su vida por nosotros luchando contra el sistema según sus posibilidades y rangos de acción.
 
+//Octubre 2018
